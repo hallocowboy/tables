@@ -1,0 +1,81 @@
+h1 {
+font-family: 'Hanalei', cursive;
+text-align: center;
+font-size: 40px;
+font-weight: 600;
+margin-bottom: 2%;
+}
+
+footer span {
+font-size: 20px;
+font-weight: 600;
+text-align: center;
+font-family: sans-serif;
+background-color: yellow;
+color: darkblue;;	
+border: 5px double red;
+width: 100%;
+padding: 30px 30%;
+}
+
+hr {
+width: 50%;
+}
+
+.table-title {
+color: blue;
+font-size: 18px;
+font-weight: 600;
+background-color: yellow;
+border: 0px solid black;
+text-align: center;
+}
+
+.first-table {
+margin: auto;
+clear: both;
+border: 1.5px solid black;
+}
+
+.first-table th {
+border: 1.5px solid black;
+}
+
+.first-table td {
+border: 1.5px solid black;
+text-align: center;
+width: 300px;
+}
+
+.rectangle {
+height: 20px;
+border: 1px solid black;
+margin: 1% auto;
+clear: both;
+width: 90%;
+}
+
+.second-table {
+border: 5px dotted red;
+margin: 1% auto;
+}
+
+.second-table caption {
+caption-side: bottom;
+}
+
+.second-table td {
+border: 1.5px solid black;
+text-align: center;
+width: 500px;
+}
+
+.no-border {
+border: none!important;
+}
+
+footer {
+margin: 3%;
+}
+
+
