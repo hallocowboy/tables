@@ -6,15 +6,18 @@ font-weight: 600;
 margin-bottom: 2%;
 }
 
+footer {
+width: 100%;
+}
+
 footer span {
-font-size: 20px;
+font-size: 16px;
 font-weight: 600;
 text-align: center;
 font-family: sans-serif;
 background-color: yellow;
 color: darkblue;;	
 border: 5px double red;
-width: 100%;
 padding: 30px 30%;
 }
 
